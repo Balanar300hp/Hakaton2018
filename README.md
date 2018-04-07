@@ -2,7 +2,7 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;<h2> Фреймворки </h2>
  <br/>&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. &nbsp;Jquery </strong> 
- <br/><p><blockquote> Применяется для всех страниц папки content, как добавление и удаление классов, <br/> анимированных переходов,
+ <br/><p><blockquote> Применяется для добавления и удаления определенных классов стилизации элементов, <br/> анимированных переходов,
 а также ajax подгрузки.</blockquote></p>
  <br/>&nbsp;&nbsp;&nbsp;&nbsp;<strong>2.</strong> Jquery.keyframes
  
