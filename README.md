@@ -4,14 +4,14 @@
  <br/>&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. &nbsp;Jquery </strong> 
  <br/><p><blockquote> Применяется для добавления и удаления определенных классов стилизации элементов, анимированных переходов,
 а также ajax подгрузки.</blockquote></p>
- <br/>&nbsp;&nbsp;&nbsp;&nbsp;<strong>2.</strong> Jquery.keyframes
+ <br/>&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Jquery.keyframes</strong>
  <br/><p><blockquote> Применяется в main.html в качестве инструмента для анимированного маштабирования размеров монитора.</blockquote></p>
  <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<h2> CSS </h2>
-  <br/><p><blockquote> Псевдоэлементы</blockquote></p>
-  <br/><p><blockquote> Селекторы</blockquote></p>
-  <br/><p><blockquote> CSS-анимация</blockquote></p>
-  <br/><p><blockquote> @media </blockquote></p>
+  <br/><strong> &nbsp;&nbsp;&nbsp;&nbsp; 1. Псевдоэлементы</strong>
+  <br/><strong> &nbsp;&nbsp;&nbsp;&nbsp; 2. Селекторы</strong>
+  <br/><strong> &nbsp;&nbsp;&nbsp;&nbsp; 3. CSS-анимация</strong>
+  <br/><strong> &nbsp;&nbsp;&nbsp;&nbsp; 4. @media </strong>
 
 
 http://f0199453.xsph.ru/content/main.html
