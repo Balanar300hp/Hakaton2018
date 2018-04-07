@@ -5,7 +5,7 @@
  <br/><p><blockquote> Применяется для добавления и удаления определенных классов стилизации элементов, анимированных переходов,
 а также ajax подгрузки.</blockquote></p>
  <br/>&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Jquery.keyframes</strong>
- <br/><p><blockquote> Применяется в main.html в качестве инструмента для анимированного маштабирования размеров монитора.
+ <br/><p><blockquote> Применяется в main.html в качестве инструмента для анимированного маштабирования размеров монитора.</blockquote></p>
 
   &nbsp;&nbsp;&nbsp;&nbsp;<h2> CSS </h2>
   <br/><strong> &nbsp;&nbsp;&nbsp;&nbsp; 1. Псевдоэлементы</strong>
