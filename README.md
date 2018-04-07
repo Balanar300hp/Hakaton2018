@@ -7,7 +7,7 @@
  <br/>&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Jquery.keyframes</strong>
  <br/><p><blockquote> Применяется в main.html в качестве инструмента для анимированного маштабирования размеров монитора.</blockquote></p>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;<h2> CSS </h2>
+  &nbsp;&nbsp;&nbsp;&nbsp;<h2> CSS </h2> 
   <br/><strong> &nbsp;&nbsp;&nbsp;&nbsp; 1. Псевдоэлементы</strong>
   <br/><strong> &nbsp;&nbsp;&nbsp;&nbsp; 2. Селекторы</strong>
   <br/><strong> &nbsp;&nbsp;&nbsp;&nbsp; 3. CSS-анимация</strong>
