@@ -2,7 +2,7 @@
 Команда ISTethics
 
 <h2> Фреймворки </h2>
- <br/> 1. Jquery 
+ <br/> <strong>1.</strong> Jquery 
  <br/> 2. Jquery.keyframes
 
 
