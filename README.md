@@ -1,5 +1,4 @@
-# Hakaton2018
-Команда ISTethics
+# Команда ISTethics Хакатон-2018
 
 <h2> Фреймворки </h2>
  <br/> <strong>1.</strong> Jquery 
