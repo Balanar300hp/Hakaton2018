@@ -1,9 +1,9 @@
 # Hakaton2018
 Команда ISTethics
 
-<h1> Фреймворки </h1>
-  1. Jquery 
-  2. Jquery.keyframes
+<h2> Фреймворки </h2>
+ <br/> 1. Jquery 
+ <br/> 2. Jquery.keyframes
 
 
 
