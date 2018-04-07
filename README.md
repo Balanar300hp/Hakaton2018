@@ -1,8 +1,8 @@
 # Команда ISTethics Хакатон-2018
 
 <h2> Фреймворки </h2>
- <br/> <strong>1.</strong> Jquery 
- <br/> <strong>2.</strong> Jquery.keyframes
+ <br/>&nbsp; <strong>1.</strong> Jquery 
+ <br/>&nbsp; <strong>2.</strong> Jquery.keyframes
  
 
 
