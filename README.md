@@ -14,4 +14,4 @@
   <br/><strong> &nbsp;&nbsp;&nbsp;&nbsp; 4. @media </strong>
 
   &nbsp;&nbsp;&nbsp;&nbsp;<h2> Визитка на хостинге </h2>
-<br/><p><blockquote><a href="http://f0199453.xsph.ru/content/main.html">ISTethics</a></blockquote></p>
+<br/><p><blockquote><a href="http://f0199453.xsph.ru/content/main.html" style="color:#49bf9d;text-decoration:none;">ISTethics</a></blockquote></p>
