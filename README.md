@@ -5,7 +5,7 @@
  <br/><p><blockquote> Применяется для добавления и удаления определенных классов стилизации элементов, <br/> анимированных переходов,
 а также ajax подгрузки.</blockquote></p>
  <br/>&nbsp;&nbsp;&nbsp;&nbsp;<strong>2.</strong> Jquery.keyframes
- 
+ <br/><p><blockquote> Применяется в main.html, в качестве инструмента для увеличения монитора компьютера.</blockquote></p>
 
 
 
