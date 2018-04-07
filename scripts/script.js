@@ -39,7 +39,7 @@ $(function(){
 		
 		setTimeout(function(){
 			$('#info').css({opacity:1},500);
-		}, 1000);
+		}, 1200);
 	});
 	
 	$('.two').click(function(){
@@ -58,7 +58,7 @@ $(function(){
 		
 		setTimeout(function(){
 			$('#info').css({opacity:1},500);
-		}, 1000);
+		}, 1200);
 	});
 	
 	$('.three').click(function(){
@@ -77,7 +77,7 @@ $(function(){
 		
 		setTimeout(function(){
 			$('#info').css({opacity:1},500);
-		}, 1000);
+		}, 1200);
 	});
 	
 	$('.four').click(function(){
@@ -98,7 +98,7 @@ $(function(){
 		
 		setTimeout(function(){
 			$('#info').css({opacity:1},500);
-		}, 1000);
+		}, 1200);
 		
 		
 	});
